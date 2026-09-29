@@ -16,25 +16,25 @@ const links_icons = {
             text : "Discord",
         },
         {
-            link: "https://www.instagram.com/aroshi_cz/",
+            link: "https://www.instagram.com/purrgo_exiliard/",
             img : "Instagram.png",
             alt : "Instagram link",
             text : "Instagram",
         },
         {
-            link: "https://youtube.com/@aroshi_cz",
+            link: "https://youtube.com/@purrgo_exiliard",
             img : "youtube.png",
             alt : "Youtube link",
             text : "Youtube",
         },
         {
-            link: "https://t.me/Aroshi_CZ#",
+            link: "https://t.me/purrgo_exiliard#",
             img : "telegram.png",
             alt : "Telegram link",
             text : "Telegram",
         },
         {
-            link: "https://barq.app/@aroshi_cz",
+            link: "https://barq.app/@purrgo_exiliard",
             img : "barq.png",
             alt : "Barq link",
             text : "BARQ!",
@@ -46,14 +46,14 @@ const links_stream = {
     container : "stream_ul",
     template : "stream.html",
     data : [
-        {
-            name : "Spálená Rozhledna",
-            link : "https://kick.com/spalenarozhledna",
-            platform : "Kick",
-        },
+        // {
+        //     name : "Spálená Rozhledna",
+        //     link : "https://kick.com/spalenarozhledna",
+        //     platform : "Kick",
+        // },
         {
             name : "Aroshi_CZ",
-            link : "https://www.twitch.tv/aroshi_cz",
+            link : "https://www.twitch.tv/purrgo_exiliard",
             platform : "Twitch",
         }
     ]
