@@ -52,7 +52,7 @@ const links_stream = {
         //     platform : "Kick",
         // },
         {
-            name : "Aroshi_CZ",
+            name : "Purrgo_Exiliard",
             link : "https://www.twitch.tv/purrgo_exiliard",
             platform : "Twitch",
         }
