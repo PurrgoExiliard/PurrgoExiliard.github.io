@@ -187,7 +187,8 @@ html, body {
     max-height: var(--image-max-height);
 }
 .images {
-    display: grid;
+    /* display: grid; */
+    display: flex;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(1, 1fr);
     grid-column-gap: var(--gap-medium);
